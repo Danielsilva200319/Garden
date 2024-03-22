@@ -1,0 +1,348 @@
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\appsettings.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.exe
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.deps.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.runtimeconfig.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.AssemblyReference.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfoInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfo.cs
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CoreCompileInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.GardenApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GardenApi.props
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GardenApi.props
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GardenApi.props
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\scopedcss\bundle\GardenApi.styles.css
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CopyComplete
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\refint\GardenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.genruntimeconfig.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\obj\Debug\net7.0\ref\GardenApi.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.html2pdf.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Application.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Domain.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Persistence.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Application.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\Persistence.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\GardenApi\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.exe
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.deps.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.runtimeconfig.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\GardenApi.pdb
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\itext.html2pdf.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Application.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Persistence.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Application.pdb
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\bin\Debug\net7.0\Persistence.pdb
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfo.cs
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.GardenApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GardenApi.props
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GardenApi.props
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GardenApi.props
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\scopedcss\bundle\GardenApi.styles.css
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CopyComplete
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\refint\GardenApi.dll
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.pdb
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\GardenApi.genruntimeconfig.cache
+C:\Users\DELL\Desktop\netcore\Garden\GardenApi\obj\Debug\net7.0\ref\GardenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\GardenApi.exe
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\GardenApi.deps.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\GardenApi.runtimeconfig.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\GardenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\GardenApi.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\itext.html2pdf.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Application.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Persistence.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Application.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfo.cs
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.GardenApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GardenApi.props
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GardenApi.props
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GardenApi.props
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\scopedcss\bundle\GardenApi.styles.css
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CopyComplete
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\refint\GardenApi.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\GardenApi.genruntimeconfig.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\GardenApi\obj\Debug\net7.0\ref\GardenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\appsettings.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\GardenApi.exe
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\GardenApi.deps.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\GardenApi.runtimeconfig.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\GardenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\GardenApi.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\AspNetCoreRateLimit.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.barcodes.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.bouncy-castle-connector.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.forms.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.io.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.kernel.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.layout.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.pdfa.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.sign.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.styledxmlparser.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.svg.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.commons.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\itext.html2pdf.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Application.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Persistence.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Application.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\bin\Debug\net7.0\Persistence.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.AssemblyReference.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.GardenApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.build.GardenApi.props
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GardenApi.props
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GardenApi.props
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\scopedcss\bundle\GardenApi.styles.css
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.csproj.Up2Date
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\refint\GardenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\GardenApi.genruntimeconfig.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net7.0\ref\GardenApi.dll

@@ -1,0 +1,68 @@
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Application.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Application.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Application.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Applicat.44B5EDA2.Up2Date
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Application\obj\Debug\net7.0\ref\Application.dll

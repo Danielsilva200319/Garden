@@ -1,0 +1,48 @@
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\heise\OneDrive - Universidad Nacional Abierta y a Distancia\Desktop\Campus\netcore\Garden\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\DELL\Desktop\netcore\Garden\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\DELL\Desktop\netcore\Garden\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Dell Vostro 14\Desktop\GardenB\Garden\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\silva\OneDrive\Escritorio\Garden\Domain\obj\Debug\net7.0\ref\Domain.dll
