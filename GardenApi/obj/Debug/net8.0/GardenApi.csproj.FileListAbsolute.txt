@@ -85,3 +85,4 @@ C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net8.0\refint\Gard
 C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net8.0\GardenApi.pdb
 C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net8.0\GardenApi.genruntimeconfig.cache
 C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net8.0\ref\GardenApi.dll
+C:\Users\silva\OneDrive\Escritorio\Garden\GardenApi\obj\Debug\net8.0\GardenApi.sourcelink.json
